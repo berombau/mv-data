@@ -19,7 +19,8 @@
 	"event": [
 		{
 			"eventName": "My Event",
-			"eventStart": "2018-04-13"
+			"eventStart": "2018-04-13",
+			"eventEnd": "2018-04-14"
 		}
 	]
 }
