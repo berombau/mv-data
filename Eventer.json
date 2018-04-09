@@ -6,7 +6,8 @@
 			"email": "user@provider.suffix"
 		},
 		{
-			"userName": "Piet de Ue"
+			"userName": "Piet de User",
+			"birthday": "2018-04-06"
 		}
 	],
 	"event": []
