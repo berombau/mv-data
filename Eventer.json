@@ -18,7 +18,8 @@
 	],
 	"event": [
 		{
-			"eventName": "My Ev"
+			"eventName": "My Event",
+			"eventStart": "2018-04-13"
 		}
 	]
 }
