@@ -13,8 +13,10 @@
 		{
 			"userName": "Jef van Gisteren",
 			"birthday": "2018-04-08",
-			"email": "vanGisteren@trein.b"
+			"email": "vanGisteren@trein.be"
 		}
 	],
-	"event": []
+	"event": [
+		{}
+	]
 }
