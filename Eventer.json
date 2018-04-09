@@ -4,13 +4,8 @@
 			"userName": "User's name",
 			"birthday": "2014-06-01",
 			"email": "user@provider.suffix"
-		}
+		},
+		{}
 	],
-	"event": [
-		{
-			"eventName": "My Event",
-			"eventStart": "2018-04-10",
-			"eventEnd": "2018-04-12"
-		}
-	]
+	"event": []
 }
