@@ -1,17 +1,17 @@
 {
 	"user": [
 		{
-			"userName": "User's name",
+			"userName": null,
 			"birthday": "2014-06-01",
 			"email": "user@provider.suffix"
 		},
 		{
-			"userName": "Piet de User",
+			"userName": null,
 			"birthday": "2018-04-06",
 			"email": "piet@iets.be"
 		},
 		{
-			"userName": "Jef van Gisteren",
+			"userName": null,
 			"birthday": "2018-04-08",
 			"email": "vanGisteren@trein.be"
 		}
