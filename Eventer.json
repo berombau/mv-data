@@ -1,6 +1,11 @@
 {
 	"user": [
 		{
+			"birthday": "2018-04-08",
+			"email": "vanGisteren@trein.be",
+			"userName": "Piet"
+		},
+		{
 			"userName": "Jan",
 			"birthday": "2014-06-01",
 			"email": "iema@provider.suffix"
@@ -9,11 +14,6 @@
 			"birthday": "2018-04-06",
 			"email": "piet@iets.be",
 			"userName": "Jef"
-		},
-		{
-			"birthday": "2018-04-08",
-			"email": "vanGisteren@trein.be",
-			"userName": "Piet"
 		}
 	],
 	"event": [
