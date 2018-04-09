@@ -7,8 +7,10 @@
 		},
 		{
 			"userName": "Piet de User",
-			"birthday": "2018-04-06"
-		}
+			"birthday": "2018-04-06",
+			"email": "p"
+		},
+		{}
 	],
 	"event": []
 }
