@@ -11,7 +11,8 @@
 			"email": "piet@iets.be"
 		},
 		{
-			"userName": "Jef van Gistered"
+			"userName": "Jef van Gisteren",
+			"birthday": "2018-04-08"
 		}
 	],
 	"event": []
