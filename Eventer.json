@@ -1,0 +1,17 @@
+{
+	"user": [
+		{
+			"userName": "User's name",
+			"birthday": "2014-06-01",
+			"email": "user@provider.suffix"
+		}
+	],
+	"event": [
+		{
+			"eventName": "Event name",
+			"eventStart": "2014-06-01",
+			"eventEnd": "2014-06-02"
+		},
+		{}
+	]
+}
