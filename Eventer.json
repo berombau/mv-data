@@ -1,33 +1,38 @@
 {
 	"event": [
 		{
-			"eventName": "Event name",
-			"eventStart": "2014-06-01",
-			"eventEnd": "2014-06-02",
+			"attendee": {
+				"status": "going",
+				"userName": "Benjamin"
+			},
+			"eventName": "Test event",
+			"eventStart": "1998-02-04",
+			"eventEnd": "1998-02-05",
+			"minAge": "18",
+			"maxAge": "32",
+			"eventTime": "13:40",
+			"eventEndTime": "14:30"
+		},
+		{
+			"eventName": "Een nieuw event",
+			"eventStart": "2018-04-11",
+			"eventEnd": "2018-04-20",
+			"minAge": "3",
+			"maxAge": "21",
 			"attendee": [
 				{
-					"userName": "Jef Piettens",
-					"birthday": "1995-12-05",
-					"email": "JPiettens@treinmail.be",
-					"status": "not going"
-				},
-				{
-					"userName": "Piet Jefssens",
-					"birthday": "2014-06-01",
-					"email": "man@eenmail.prov",
-					"status": "maybe"
+					"userName": "Jan",
+					"status": "going"
 				}
 			]
 		},
 		{
-			"eventName": "Mijn Verjaardag",
-			"eventStart": "4123-03-12",
-			"eventEnd": "4123-04-13",
+			"eventName": "Nog een event",
 			"attendee": [
 				{
-					"userName": "Jef Iets",
-					"birthday": "2008-05-14",
-					"email": "manmail@piet.be",
+					"userName": "Iemand",
+					"birthday": "1998-02-01",
+					"email": "ajskldfja@iejrowi.com",
 					"status": "maybe"
 				}
 			]
@@ -37,7 +42,45 @@
 				{
 					"status": "going"
 				}
-			]
+			],
+			"eventName": "qwjsdxoiqwas"
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			],
+			"eventName": "joilfjksdew"
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			],
+			"eventName": "oefd"
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			],
+			"eventName": "ojwdqsa"
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			],
+			"eventName": "ljdcfsdw"
+		},
+		{
+			"attendee": {
+				"status": "going"
+			}
 		}
 	]
 }
