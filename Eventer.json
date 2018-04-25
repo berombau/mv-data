@@ -1,35 +1,34 @@
 {
-	"user": [
-		{
-			"birthday": "2018-04-08",
-			"email": "vanGisteren@trein.be",
-			"userName": "Piet"
-		},
-		{
-			"userName": "Jan",
-			"birthday": "2014-06-01",
-			"email": "iema@provider.suffix"
-		},
-		{
-			"birthday": "2018-04-06",
-			"email": "piet@iets.be",
-			"userName": "Jef"
-		}
-	],
 	"event": [
 		{
-			"eventName": "My Event",
-			"eventStart": "2018-04-13",
-			"eventEnd": "2018-04-14",
+			"eventName": "Event name",
+			"eventStart": "2014-06-01",
+			"eventEnd": "2014-06-02",
 			"attendee": [
 				{
-					"user": [
-						null
-					],
+					"userName": "Jef Piettens",
+					"birthday": "1995-12-05",
+					"email": "JPiettens@treinmail.be",
 					"status": "not going"
 				},
 				{
-					"status": "going"
+					"userName": "Piet Jefssens",
+					"birthday": "2014-06-01",
+					"email": "man@eenmail.prov",
+					"status": "maybe"
+				}
+			]
+		},
+		{
+			"eventName": "Mijn Verjaardag",
+			"eventStart": "4123-03-12",
+			"eventEnd": "4123-04-13",
+			"attendee": [
+				{
+					"userName": "Jef Iets",
+					"birthday": "2008-05-14",
+					"email": "manmail@piet.be",
+					"status": "maybe"
 				}
 			]
 		}
